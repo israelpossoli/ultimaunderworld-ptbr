@@ -1,5 +1,4 @@
-# ultimaunderworld-ptbr
-Ultima Underworld tradução para pt-br
+# Tradução do Ultima Underworld para pt-br
 
 Projeto inacabado de tradução que inicou em 2007 (www.traducaoultima.net), foram envolvidas mais três pessoas que não recordo o nome.
 
